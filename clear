@@ -1,0 +1,24 @@
+[33mcommit b74e1bd290140160e104cf254026f9d61f5cbe30[m
+Merge: f6c875e 86f7778
+Author: ahmetalan <ahmetalan93@gmail.com>
+Date:   Sun Mar 22 01:42:10 2015 +0200
+
+    Merge branch 'master' of https://github.com/ahmetalan/test
+
+[33mcommit f6c875e78676134095fc4d44460e8b51ecab99f3[m
+Author: ahmetalan <ahmetalan93@gmail.com>
+Date:   Sun Mar 22 01:39:30 2015 +0200
+
+    routes.php degisti.
+
+[33mcommit 86f7778a80805d4627998f37c07412d1cc4b9002[m
+Author: ahmetalan <ahmetalan93@gmail.com>
+Date:   Sat Mar 21 23:01:56 2015 +0200
+
+    Create README.md
+
+[33mcommit c149c215dcd5686d5ebc7ef5902c02fc90c80e40[m
+Author: ahmetalan <ahmetalan93@gmail.com>
+Date:   Sat Mar 21 22:59:09 2015 +0200
+
+    :neckbeard: Added .gitattributes & .gitignore files
